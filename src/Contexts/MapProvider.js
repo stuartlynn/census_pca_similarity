@@ -217,12 +217,12 @@ class MapProvider extends Component {
       style: this.generateStylePCA(variables,10)
     });
 
-    this.fetchFeatureData(feature.id).then((result)=>{
-      console.log("RESULT IS ",result)
-      this.setState({
-        selectedData : result[0]
-      })
-    })
+    //this.fetchFeatureData(feature.id).then((result)=>{
+      //console.log("RESULT IS ",result)
+      //this.setState({
+        //selectedData : result[0]
+      //})
+    //})
   }
   render() {
     return (
