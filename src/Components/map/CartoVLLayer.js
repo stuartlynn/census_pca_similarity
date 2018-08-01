@@ -1,8 +1,8 @@
 import React, { Component} from 'react';
 import PropTypes from 'prop-types';
-import * as carto from '@carto/carto-vl/dist/carto-vl.min.js'
+//import * as carto from '@carto/carto-vl/dist/carto-vl.min.js'
 
-window.cartoImport = carto
+let carto = window.carto
 class CartoVLLayer extends Component {
   static propTypes = {
     children: PropTypes.node,
