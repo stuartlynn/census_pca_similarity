@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "@carto/airship": "^1.0.0-alpha.14",
-    "@carto/carto-vl": "^0.5.1",
-    "@carto/mapbox-gl": "^0.44.1",
+    "@carto/carto-vl": "^0.5.3",
+    "@carto/mapbox-gl": "^0.45.0-carto1",
     "d3": "^5.5.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",

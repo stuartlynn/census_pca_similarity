@@ -11,7 +11,6 @@ class App extends Component {
       <div className="App">
         <MapProvider>
           <MapContainer/>
-          <StatsContainer/>
         </MapProvider>
       </div>
     );
