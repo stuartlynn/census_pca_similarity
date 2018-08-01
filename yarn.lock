@@ -35,9 +35,9 @@
     react-day-picker "^7.1.4"
     react-emotion "^9.0.1"
 
-"@carto/carto-vl@^0.5.3":
-  version "0.5.3"
-  resolved "https://registry.yarnpkg.com/@carto/carto-vl/-/carto-vl-0.5.3.tgz#5c8ecc1535fd9db08f8b9ab3263ef056aaedc0fd"
+"@carto/carto-vl@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@carto/carto-vl/-/carto-vl-0.6.0.tgz#8a0c7f366e064668e77a4fa97c00fc7f2ca0c810"
   dependencies:
     "@mapbox/vector-tile" "^1.3.0"
     cartocolor "^4.0.0"
@@ -6279,10 +6279,6 @@ react-error-overlay@^4.0.0:
 react-is@^16.3.1:
   version "16.4.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.4.1.tgz#d624c4650d2c65dbd52c72622bbf389435d9776e"
-
-react-scripts-plugin-no-minify@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/react-scripts-plugin-no-minify/-/react-scripts-plugin-no-minify-0.3.2.tgz#d5ef4591daf9e69c286fdab10e24c1f519df260d"
 
 react-scripts@1.1.4:
   version "1.1.4"
